@@ -1,0 +1,15 @@
+    langgraph
+langgraph-cli[inmem]
+langgraph-checkpoint-sqlite
+langchain 
+langchain-openai 
+langchain-community 
+langchain-tavily
+tavily-python 
+python-dotenv
+notebook
+uvicorn
+faiss-cpu
+pip-system-certs
+langchain_google_genai
+langchain_chroma
